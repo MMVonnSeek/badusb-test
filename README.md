@@ -80,6 +80,7 @@ Besides Android, there are several devices that are used to carry out an HID att
     </ul>
  </details>
 
+![50068-98202-OMG-Elite-xl](https://github.com/MMVonnSeek/badusb-test/assets/89359847/0cd71395-47fd-4d1f-b375-4fab9b2ac881)
 
 
  <details open>
