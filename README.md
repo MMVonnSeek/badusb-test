@@ -17,6 +17,9 @@ This means that our Android once connected to a computer can recognized it as a 
 Besides Android, there are several devices that are used to carry out an HID attack. These are known as Rubber Ducky or BadUSB. Here are few examples:
 
 
+
+
+
 <details open>
     <summary>Rubber Ducky:</summary>
     <ul>
