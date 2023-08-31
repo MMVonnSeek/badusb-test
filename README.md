@@ -90,6 +90,7 @@ Besides Android, there are several devices that are used to carry out an HID att
     </ul>
  </details>
 
+![NetHunter-TicWatch](https://github.com/MMVonnSeek/badusb-test/assets/89359847/b07abdb9-9724-4041-bd9c-7d0066d01a65)
 
 
   <details open>
