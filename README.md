@@ -116,9 +116,13 @@ Besides Android, there are several devices that are used to carry out an HID att
     </ul>
  </details>
 
+
 ![20230807_235659](https://github.com/MMVonnSeek/badusb-test/assets/89359847/31826073-5dc5-41ec-bd19-ea27f07cb228)
 
 
 
-![octocat-1693446128627](https://github.com/MMVonnSeek/badusb-test/assets/89359847/b9d2eecd-145d-41c6-aadb-a4296f69a216)
 
+<sub>Optional (if you can follow me and leave a star in the repository)  ⭐
+Thank you
+
+![octocat-1693446128627](https://github.com/MMVonnSeek/badusb-test/assets/89359847/b9d2eecd-145d-41c6-aadb-a4296f69a216)
