@@ -1,9 +1,11 @@
 # badusb-test
 # Demo of a **"Rubber Ducky"** that captures some information from the browser.
 
+
 # Ultimate guide to HID attacks using Rubber Ducky scripts and Bad USB MITM attack
 
 Have you ever wondered how hackers can compromise a computer with just a USB device? In this blogpost, we will explore the concept of HID attacks, which are a type of physical host attack that use a programmable device to emulate a keyboard or mouse and execute malicious commands on the target system. We will also learn how to use some of the tools that are part of the NetHunter system, such as HID Attacks, DuckHunter HID and Bad USB MITM Attack. We will also discuss the potential consequences of HID attacks, and how to protect against them. By understanding the risks and techniques involved in HID attacks, you can better secure your systems and protect against this type of attack vector.
+
 
 
 ## What is HID?
