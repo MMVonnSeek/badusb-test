@@ -1,5 +1,5 @@
 # badusb-test
-# Demo of a "Rubber Ducky" that captures some information from the browser.
+# Demo of a **"Rubber Ducky"** that captures some information from the browser.
 
 # Ultimate guide to HID attacks using Rubber Ducky scripts and Bad USB MITM attack
 
